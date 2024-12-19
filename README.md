@@ -30,7 +30,7 @@ Modifications or redistributions of this code must include the following stateme
 **1. Clone the repository**:
 
 ```js
-git clone https://github.com/JukutPremium/RememoriesBot
+git clone https://github.com/JukutPremium/RememoriesBot.git
 ```
 
 **2. Install dependencies**:
